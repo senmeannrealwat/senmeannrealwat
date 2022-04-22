@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @senmeannrealwat
-- 👀 I’m interested in eating
-- 🌱 I’m currently learning how to eat
-- 💞️ I’m looking to collaborate on eating
+- 👋 Hi, I’m Meann Sen
+- 👀 I’m interested in Engineering
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on freelancer
 - 📫 How to reach me ...senmeann@gmail.com
 
 <!---
