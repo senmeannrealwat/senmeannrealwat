@@ -2,7 +2,7 @@
 - 👀 I’m interested in eating
 - 🌱 I’m currently learning how to eat
 - 💞️ I’m looking to collaborate on eating
-- 📫 How to reach me ...
+- 📫 How to reach me ...senmeann@gmail.com
 
 <!---
 senmeannrealwat/senmeannrealwat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
