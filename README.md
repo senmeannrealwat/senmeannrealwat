@@ -1,3 +1,4 @@
+<p align="center"><img width="100%" src="./assets/kids-coding-art.jpg" /></p>
 ### Hi there, I am Sen👋
 
 > A Software developer from **Realwant.Inc**.
