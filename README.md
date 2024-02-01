@@ -4,9 +4,6 @@
 > A Software developer from **Realwat.Inc**.
 
 ### 🏗️ Learning：
-
-<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://miro.medium.com/v2/resize:fit:1200/0*ywP7NFzW-8ZWilwJ.png?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 
 
